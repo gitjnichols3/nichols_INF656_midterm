@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cutting Board",
+    "category": "Kitchen",
+    "price": 25.00
+  },
+  {
+    "id": 2,
+    "name": "Rolling Pin",
+    "category": "Kitchen",
+    "price": 30.00
+  },
+  {
+    "id": 3,
+    "name": "Serving Tray",
+    "category": "Kitchen",
+    "price": 45.00
+  },
+  {
+    "id": 4,
+    "name": "Desk Organizer",
+    "category": "Office",
+    "price": 40.00
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "category": "Office",
+    "price": 55.00
+  },
+  {
+    "id": 6,
+    "name": "Birdhouse",
+    "category": "Outdoor",
+    "price": 35.00
+  },
+  {
+    "id": 7,
+    "name": "Planter Box",
+    "category": "Outdoor",
+    "price": 50.00
+  },
+  {
+    "id": 8,
+    "name": "Wall Shelf",
+    "category": "Décor",
+    "price": 60.00
+  },
+  {
+    "id": 9,
+    "name": "Picture Frame Set",
+    "category": "Décor",
+    "price": 45.00
+  },
+  {
+    "id": 10,
+    "name": "Coffee Table",
+    "category": "Furniture",
+    "price": 120.00
+  }
+]
